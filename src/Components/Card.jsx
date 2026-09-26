@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+// card component
 const Card = ({ apiUrl }) => {
   const [data, setdata] = useState([]);
 
